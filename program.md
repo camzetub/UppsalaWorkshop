@@ -12,7 +12,7 @@ Senior Information Officer at DTU Library<br>
  | *Time* | *Content* |
  | ------ | ------ |
  | 8.30-9.00 | Arrival and installation assistance, if needed |
- | 9.00 |	Welcome & introduction, incl why tools like OpenRefine, GitHub, VoSViewer is worth knowing and spending time on |
+ | 9.00 |	Welcome & introduction, including why tools like OpenRefine, GitHub, VoSViewer is worth knowing and spending time on |
  | 9.30 | Introduction to cleaning datasets by using the tool OpenRefine |
  | | - including Hands-on |
  | 11.00	| Introduction to sharing data via GitHub |
