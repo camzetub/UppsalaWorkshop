@@ -21,7 +21,7 @@ Senior Information Officer at DTU Library<br>
  | 13.00	| GitHub continued |
  | 14.00	| Introduction to visualization of bibliometric search results / datasets via VosViewer |
  | | - including Hands-on |
- | 14.30	| Coffee break |
+ | 14.30	| Coffee break | Yay coffee!
 | 15.00	| VosViewer continued |
 | 15.30	| End of Workshop |
 
